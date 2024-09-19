@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DidlyDoodash",
-    "slug": "DidlyDoodash",
+    "name": "didlydoodash",
+    "slug": "didlydoodash",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "scheme": "DidlyDoodash",
+    "scheme": "didlydoodash",
     "plugins": ["expo-router"]
   }
 }
